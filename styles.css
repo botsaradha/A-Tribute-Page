@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(102, 155, 253);
+    text-align: center;
+}
+
+.content {
+    color: rgb(29, 56, 248);
+    box-shadow: 20px 20px 20px grey;
+    padding: 25px 25px;
+    margin: 20%;
+    margin-top: 50px;
+    text-align: left;
+    background-color: gold;
+    z-index: 1;
+}
